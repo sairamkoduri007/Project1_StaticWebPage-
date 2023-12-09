@@ -1,0 +1,49 @@
+body{
+    background-image: url(https://image.khaleejtimes.com/?uuid=a0f46d37-c530-5922-a9f3-9a1d22e92882&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.84375&x=0&y=0&width=1200&height=675);
+            background-size: 100% 680px;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            
+            margin: 0px;
+            padding: 0px;
+}
+
+.top{
+    text-align: center;
+    color: floralwhite;
+    background-color: darkslategray; 
+    height: 40px;
+    width: 100%;
+    
+    margin: 0px;
+    font-weight: bold
+    
+
+}
+header{
+    background-color: darkslategray;
+    height: 20px;
+   text-align: center;
+   margin: 0px ;
+   padding: 0%;
+    
+}
+header *{
+    display: inline;
+    
+}
+
+header li{
+    margin: 35px;
+}
+
+
+header li a{
+    color: darkgrey;
+    
+}
+marquee{
+    width: 100%;
+    background-color: lightblue;
+    height: 25px;
+}
